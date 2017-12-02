@@ -1,0 +1,10 @@
+
+.vs/ProjetSyntheseVS/v15/.suo
+*.db
+*.opendb
+*.ipch
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
